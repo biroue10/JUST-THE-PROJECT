@@ -21,5 +21,14 @@ body{
 table, td, td{
     border: 1px solid black;
     border-collapse: collapse;
+    margin: auto;
+    font-size: 3rem;
 
+}
+thead{
+    font-weight: bold;
+}
+caption{
+    margin-bottom:3rem;
+    font-weight: bold;
 }
