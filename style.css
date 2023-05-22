@@ -18,3 +18,8 @@ body{
     font-family: 'Instrument Serif', serif;
     font-size: 1.5rem;
 }
+table, td, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
