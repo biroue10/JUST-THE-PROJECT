@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Playball&family=Vollkorn+SC:wght@400;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Instrument+Serif:ital@1&family=Playball&family=Vollkorn+SC:wght@400;600;700;900&display=swap');
 .button a{
     background-color: #4169E1;
     color: white;
@@ -15,6 +15,6 @@
     text-align: center;
 }
 body{
-    font-family: 'Vollkorn SC', serif;
-    font-size: 1rem;
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.5rem;
 }
