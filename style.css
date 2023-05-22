@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Playball&family=Vollkorn+SC:wght@400;600;700;900&display=swap');
 .button a{
-    background-color: blue;
+    background-color: #4169E1;
     color: white;
     border-radius: 20px;
     text-decoration: none;
@@ -15,6 +15,6 @@
     text-align: center;
 }
 body{
-    font-family: 'Courgette', cursive;
-    font-size: large;
+    font-family: 'Vollkorn SC', serif;
+    font-size: 1rem;
 }
