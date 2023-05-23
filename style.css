@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Instrument+Serif:ital@1&family=Playball&family=Vollkorn+SC:wght@400;600;700;900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Instrument+Serif:ital@1&family=Playball&family=Vollkorn+SC:wght@400;600;700;900&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Instrument+Serif:ital@1&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Playball&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Instrument+Serif:ital@1&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Playball&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
 .button a{
     background-color: #4169E1;
     color: white;
@@ -15,14 +17,14 @@
     text-align: center;
 }
 body{
-    font-family: 'Instrument Serif', serif;
-    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
 }
 table, td, td{
     border: 1px solid black;
     border-collapse: collapse;
     margin: auto;
-    font-size: 3rem;
+    font-size: 2rem;
 
 }
 thead{
