@@ -1,0 +1,27 @@
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+table, td, tr, th {
+    margin: auto;
+    border: 1px solid;
+    font-size: 2rem;
+    border-collapse: collapse;
+    text-align: left;
+
+}
+caption{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+table{
+    width: 100%;
+  
+}
+th, td{
+    padding-left: 10px;
+    height: 50px;
+
+}
