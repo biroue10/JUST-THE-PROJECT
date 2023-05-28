@@ -1,32 +1,45 @@
 .container{
     margin: auto;
     background-color: white;
-    width: 50%;
+    width: 55%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
 }
 form table{
     margin: auto;
-
+    width: 75%;
 }
 label{
     text-align: left;
+    font-weight: bold;
+    font-size: 1.2rem;
 }
 
-input[type = text], input[type = number], input[type = email], input[type = password], select, input[type = submit]{
-    width: 100%;
-    padding: 10px 15px;
-    margin: 5px 0;
-    box-sizing: border-box;
- }
  .bouton{
     text-align: center;
+    border: none;
+
  }
  .bouton input{
     width: 100%;
     cursor: pointer;
-    background-color: blue;
+    background-color: #155eef;
     color: white;
     
  }
  body {
     background-color:whitesmoke
+ }
+ table td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+
+ }
+ input[type = text], input[type = password], input[type = submit], input[type = number], input[type = email], select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px;
+    margin: 5px 0;
  }
