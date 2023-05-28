@@ -1,4 +1,6 @@
 {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "autoimport.filesToScan": "**/*.{ts,tsx,html}",
+    "prettier.embeddedLanguageFormatting": "auto"
 }

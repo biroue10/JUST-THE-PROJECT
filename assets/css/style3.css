@@ -1,0 +1,14 @@
+.container{
+    width: 50%;
+    margin: auto;
+}
+form table{
+    margin: auto;
+    background-color: green;
+}
+label{
+    text-align: left;
+}
+body{
+    font-size: 1.5rem;
+}
