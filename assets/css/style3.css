@@ -44,3 +44,13 @@ label{
     padding: 10px 15px;
     margin: 5px 0;
  }
+ input[type=checkbox] {
+   transform: scale(1.1);
+}
+input[type=radio] {
+   transform: scale(1.1);
+   font-size: 0.3rem;
+}
+.genre{
+  font-size: 0.9rem;
+}
