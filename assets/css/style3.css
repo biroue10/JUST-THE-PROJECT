@@ -38,7 +38,7 @@ form table{
     text-align: left;
 
  }
- input[type = text], input[type = password], input[type = submit], input[type = number], input[type = email], select{
+ input[type = text], input[type = password], input[type = submit], input[type = tel], input[type = email], select{
     width: 100%;
     box-sizing: border-box;
     padding: 10px 15px;
