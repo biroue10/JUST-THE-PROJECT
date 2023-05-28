@@ -1,14 +1,32 @@
 .container{
-    width: 50%;
     margin: auto;
+    background-color: white;
+    width: 50%;
 }
 form table{
     margin: auto;
-    background-color: green;
+
 }
 label{
     text-align: left;
 }
-body{
-    font-size: 1.5rem;
-}
+
+input[type = text], input[type = number], input[type = email], input[type = password], select, input[type = submit]{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+ }
+ .bouton{
+    text-align: center;
+ }
+ .bouton input{
+    width: 100%;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    
+ }
+ body {
+    background-color:whitesmoke
+ }
