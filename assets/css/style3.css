@@ -1,60 +1,60 @@
-.container{
-    margin: auto;
-    background-color: white;
-    width: 55%;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    margin-top: 50px;
+.container {
+  margin: auto;
+  background-color: white;
+  width: 55%;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-top: 50px;
+}
+form table {
+  margin: auto;
+  width: 75%;
+}
+.label {
+  text-align: left;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
 
+.bouton {
+  text-align: center;
 }
-form table{
-    margin: auto;
-    width: 75%;
+.bouton input {
+  width: 100%;
+  cursor: pointer;
+  background-color: #155eef;
+  color: white;
+  border: none;
+  outline: none;
+  display: block;
 }
-.label{
-    text-align: left;
-    font-weight: bold;
-    font-size: 1.2rem;
+body {
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
 }
-
- .bouton{
-    text-align: center;
-
- }
- .bouton input{
-    width: 100%;
-    cursor: pointer;
-    background-color: #155eef;
-    color: white;
-    border: none;
-    outline: none;
-    display: block;
-    
-    
- }
- body {
-    background-color:whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
- }
- table td{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-align: left;
-
- }
- input[type = text], input[type = password], input[type = submit], input[type = tel], input[type = email], select{
-    width: 100%;
-    box-sizing: border-box;
-    padding: 10px 15px;
-    margin: 5px 0;
- }
- input[type=checkbox] {
-   transform: scale(1.1);
+table td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
 }
-input[type=radio] {
-   transform: scale(1.1);
-   font-size: 0.3rem;
+input[type="text"],
+input[type="password"],
+input[type="submit"],
+input[type="tel"],
+input[type="email"],
+select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 15px;
+  margin: 5px 0;
 }
-.genre{
+input[type="checkbox"] {
+  transform: scale(1.1);
+}
+input[type="radio"] {
+  transform: scale(1.1);
+  font-size: 0.3rem;
+}
+.genre {
   font-size: 0.9rem;
 }
